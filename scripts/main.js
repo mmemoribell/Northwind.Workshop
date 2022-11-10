@@ -2,7 +2,7 @@ const selectDropdown = document.getElementById("select-dropdown");
 const categoryDropdown = document.getElementById("category-dropdown");
 
     function loadCategoryDropdown() {
-        categoryDropdown.style.display = ;
+        // categoryDropdown.style.display = ;
         selectValue = selectDropdown.value;
         selectValue = categoryDropdown.value;
 
